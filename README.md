@@ -55,8 +55,36 @@
 
 ## Что почитать/посмотреть
 
+### Онлайн активности
+
+**[`^        back to top        ^`](#)**
+
+- [Игра «Угадай страну по снимку»](https://qz.com/304487/the-view-from-above-can-you-name-these-countries-using-only-satellite-photos/)
+- [Игра «GeoIQ»](http://kelsocartography.com/blog/?p=56)
+- [Географические игры](https://www.geoguessr.com/seterra/ru)
+- [Игра «Угадай город по снимку»](https://www.theguardian.com/cities/2015/sep/30/identify-world-cities-street-plans-quiz)
+- [Игра «Угадай страну по панораме»](https://www.geoguessr.com/)
+- [Игра «Угадай город по карте»](https://jamaps.github.io/city-guesser/)
+- [Тесты «Хорошо ли ты знаешь мир?»](https://motovskikh.ru/)
+- [Игра «Бумажные самолетики»](https://paperplanes.world/)
+- [Игра «Найди откуда сделано фото»](https://findplace.club/)
+- [Игра «Угадай страну по фото»](https://yandex.ru/lab/countries)
+
+### Офлайн активности
+
+**[`^        back to top        ^`](#)**
+
+- Сделать глобус своими руками:
+  - [Способ 1](https://www.3dgeography.co.uk/make-a-globe)
+  - [Способ 2](https://www.penza-press.ru/lenta-novostey/119056/delaem-globus-dlya-shkolnikov.-master-klass)
+  - [Способ 3](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/make-this-dymaxion-globe-ornament-please/)
+- [Раскладки для глобусов разных планет](http://www.vendian.org/mncharity/dir3/planet_globes/)
+
+
 ### Тематическая литература
 
 **[`^        back to top        ^`](#)**
 
-
+- Кравцова В. «Космические снимки и экологические проблемы нашей планеты» - ИТЦ Сканекс, Москва, 2011.
+- Л. Шапиро, Дж. Стокман «Компьютерное зрение» - Бином. Лаборатория знаний, 2006.
+- Марков Д.С. «Основы использования геоинформационных систем в образовании. Учебное пособие» - 2015.

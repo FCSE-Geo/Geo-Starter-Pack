@@ -53,8 +53,7 @@
 
 [Вебинарная площадка (комната направления Геоинформатика)](https://web.roskvantorium.ru/b/77a-ld4-xjs-szx) - Вебинарная площадка на базе BigBlueButton.
 
-[Записи вебинаров](https://github.com/FCSE-Geo/Geo-Starter-Pack/blob/main/webinar_recordings.md) - Страница с записями вебинаров. 
-
+[Записи вебинаров](https://github.com/FCSE-Geo/Geo-Starter-Pack/blob/main/webinar_recordings.md) - Страница с записями вебинаров. Здесь будут продублированы ссылки на записи с текущей вебинарной площадки, а также здесь будут ссылки на более ранние записи вебинаров с других площадок.
 
 
 ## Для начинающих
